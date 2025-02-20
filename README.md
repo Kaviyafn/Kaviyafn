@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kaviyafn
+- 👋 Hi, I’m @Kaviya
 - 👀 I’m interested in application developement with flutter
 - 🌱 I’m currently learning BE computer science engineering
 - 💞️ I’m looking to collaborate on flutter application developement
