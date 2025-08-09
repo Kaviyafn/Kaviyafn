@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Kaviya
-- 👀 I’m interested in application developement with flutter
-- 🌱 I’m currently learning BE computer science engineering
-- 💞️ I’m looking to collaborate on flutter application developement
-- 📫 How to reach me mail:kaviyaayyanar217@gmail.com
-- 😄 Pronouns: she
+- 👀 I’m interested in the role of software developer 
+- 🌱 I’m currently studying BE computer science engineering
+- 📫 How to reach me mail:kaviyade2005@gmail.com
+
 
 <!---
 Kaviyafn/Kaviyafn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
